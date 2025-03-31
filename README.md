@@ -9,3 +9,6 @@ Please review the serial number prefix ("A", "B", ect) of your panels. Then, nav
 These firmware files are intended to be uploaded with the [Novastar Coex VMP software](https://www.novastar.tech/downloads/).
 
 ## Software Versions
+
+[REM MIRA 3.9MMV1, Batch "A"]
+[REM MIRA 3.9MMSQV1, Batch "A"]
