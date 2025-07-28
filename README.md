@@ -17,7 +17,7 @@ V*.*.*.ncp
 - Lot# F242422
 
 
-[REM MIRA 3.9MM SQ V1](https://github.com/videowallqc-chauvetlighting/REM-MIRA3.9MM/blob/2ebe6032fdd74822686a6858201f3bd4795899f6/NCP_FILES/Chauvet%20Professional_REMMIRA39MMSQ_V1.00.01.ncp)
+[REM MIRA 3.9MM SQ V1](https://github.com/Chauvet-Pro/REM-MIRA3.9MM/raw/refs/heads/main/NCP_FILES/Chauvet%20Professional_REMMIRA39MMSQ%20Lot%23%20F242422%20V1.00.01.ncp)
 
 V*.*.*.ncp
 - launching version
