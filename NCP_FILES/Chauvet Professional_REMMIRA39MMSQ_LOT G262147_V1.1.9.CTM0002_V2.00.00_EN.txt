@@ -1,0 +1,75 @@
+File type：NCP
+Library Name：REMMIRA39MMSQ_1_Chauvet Professional_B1_20260627122027
+NCP Remarks：1
+Cabinet Count：1
+Export Time：2026/6/27 12:20:27
+Export Person：雷俊
+——————————————————————————————————————————————————————————————————————————————————————
+Cabinet：1
+Basic Info：
+     File ID：8F2A2B76B3D87C4B9E531EC54BADDA65
+     Manufacturer：Chauvet Professional
+     Cabinet Model：REMMIRA39MMSQ_1
+     Release：B1
+     Resolution：128x128
+     Pixel Pitch：3.9
+     Driver Chip：DP3365S
+     Driver Version：2.0.0
+     Decode Chip：SM5368ND
+     Scans：16
+     Rv Card：A10s Pro
+     Version：1.5.3.17
+     Cabinet Description：X3.9 3365S 5368 16S
+
+Parm Info：
+     Thermal Compensation：No
+     Calibration Switch：×Brightness、×Brightness and chroma、×Full-grayscale 1.0、×Full-grayscale 2.0、×Low-grayscale、×Seams
+     Low Lattency：on
+     Adaptive MultiFrameRate：V2_1
+
+     Display Mode：
+          Mode1：
+               DCLK Frequency Max: 11.36MHz, Corresponding Frame Rate: 50.00Hz
+               DCLK Frequency Min: 8.93MHz, Corresponding Frame Rate: 48.00Hz
+               GCLK Frequency Max: 26.79MHz, Corresponding Frame Rate: 48.00Hz
+               GCLK Frequency Min: 22.72MHz, Corresponding Frame Rate: 50.00Hz
+               Brightness Efficiency Max: 82.26%, Corresponding Frame Rate: 50.00Hz
+               Brightness Efficiency Min: 77.07%, Corresponding Frame Rate: 60.00Hz
+               Visual Refresh Rate Max: 7680Hz, Corresponding Frame Rate: 60.00Hz
+               Visual Refresh Rate Min: 6144Hz, Corresponding Frame Rate: 48.00Hz
+               60.00 Hz
+                    Dynamic Booster Max Brightness：518Nits
+                    Before Calibration Brightness：1153Nits
+                    After Calibration Brightness：1036Nits
+                    Thermal compensation：√Gamut、√Brightness、√Grayscale、×Color Temperature
+                    Original Gamut：5955K
+                    Gamut Coverage：--
+               50.00 Hz
+                    Dynamic Booster Max Brightness：532Nits
+                    Before Calibration Brightness：1184Nits
+                    After Calibration Brightness：1064Nits
+                    Thermal compensation：√Gamut、√Brightness、√Grayscale、×Color Temperature
+                    Original Gamut：5916K
+                    Gamut Coverage：--
+               48.00 Hz
+                    Dynamic Booster Max Brightness：525Nits
+                    Before Calibration Brightness：1168Nits
+                    After Calibration Brightness：1050Nits
+                    Thermal compensation：√Gamut、√Brightness、√Grayscale、×Color Temperature
+                    Original Gamut：5980K
+                    Gamut Coverage：REC.709：97.50%、REC.2020：78.29%、DCI-P3：86.23%
+
+Release Info：
+     Release No：B1
+     Publish Person：雷俊
+     Publish Time：2026/6/27 12:20:06
+     Revised Content：1
+     Environmental Info ：软件信息
+               CabinetTool: V1.1.9.CTM0002
+               VMP: V1.5.1
+               
+               运行环境
+               发送卡：--
+               版本：--
+
+——————————————————————————————————————————————————————————————————————————————————————
