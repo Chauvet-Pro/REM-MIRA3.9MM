@@ -25,5 +25,5 @@ V*.*.*.ncp
 - [Lot# F242422](https://github.com/Chauvet-Pro/REM-MIRA3.9MM/raw/refs/heads/main/NCP_FILES/Chauvet%20Professional_REMMIRA39MMSQ%20Lot%23%20F242422%20V1.00.01.ncp)
 - launching version
 
-- [Lot# G262147](https://github.com/Chauvet-Pro/REM-MIRA3.9MM/raw/refs/heads/main/NCP_FILES/Chauvet%20Professional_REMMIRA39MMSQ_LOT%20G262147_V1.1.9.CTM0002_V2.00.00.ncp).
+- [Lot# G262147](https://github.com/Chauvet-Pro/REM-MIRA3.9MM/raw/refs/heads/main/NCP_FILES/Chauvet%20Professional_REMMIRA39MMSQ_LOT%20G262147_V1.1.9.CTM0002_V2.00.00.ncp)
 - Launching Version V2.0
